@@ -1,1 +1,1 @@
-# electrum-locale
+# Rutanio-electrum-locale
